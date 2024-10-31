@@ -1,8 +1,11 @@
 # [Creating a Storage Account in Microsoft Azure Portal](https://app.tango.us/app/workflow/f9804745-dee7-4bba-b8fa-ad4feee3df15?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
+azure enf to endf
 
 __Creation Date:__ Oct 31, 2024  
 __Created By:__ Romario Coronel  
+
+
 
 ## # [Microsoft Azure portal (PWA)](https://portal.azure.com/#home)
 
